@@ -1,0 +1,17 @@
+Welcome to monster kill.
+
+Your target is to kill all monsters form your kingdom.
+The character with smiling face(😮) is you. Always try to avoid go near to monsters. They can hit you.
+Kill the monsters using F command. you can fire in any direction.
+Use L for left, R for right, U for up and D for down command for navigating the screen.
+Use E command for exit the game.
+After you exit your status will be auto saved, and will reloaded when you play again.
+
+you will find two types of monsters in this game. they are ♍(Chupacabra) and ♏(Nessie)
+♏(Nessie) will move in the screen in Right direction and it can hit you at a distance of 2 points. It has impact of 30.
+♍(Chupacabra) will move in the screen in Down direction and it can hit you at a distance of 1 points. It has impact of 20.
+
+when any monster hit you, your health will be decreased by impact of the monster.
+when your health reached 0, you will be dead and the game will be over.
+when you clear all monsters from screen you will win.
+
